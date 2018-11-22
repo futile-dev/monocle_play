@@ -1,0 +1,11 @@
+{
+  "test_object": {
+    "test_string": "string 1",
+    "test_int": 121,
+    "test_bool": true,
+    "test_nested_object": {
+      "test_string": "string 2",
+      "test_string_3": "string 3"
+    }
+  }
+}
